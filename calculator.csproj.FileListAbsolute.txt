@@ -1,0 +1,25 @@
+c:\users\amal\documents\visual studio 2010\Projects\calculator\calculator\bin\Debug\calculator.exe
+c:\users\amal\documents\visual studio 2010\Projects\calculator\calculator\bin\Debug\calculator.pdb
+c:\users\amal\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.Form1.resources
+c:\users\amal\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+c:\users\amal\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
+c:\users\amal\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.exe
+c:\users\amal\documents\visual studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.pdb
+C:\Users\Amal\Documents\Visual Studio 2010\Projects\calculator\calculator\obj\x86\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\college\Third year\6th term\Software Engineering\LAB\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.exe
+D:\college\Third year\6th term\Software Engineering\LAB\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.pdb
+D:\college\Third year\6th term\Software Engineering\LAB\nawaf\ASS #1\calculator\calculator\bin\Debug\calculator.exe
+D:\college\Third year\6th term\Software Engineering\LAB\nawaf\ASS #1\calculator\calculator\bin\Debug\calculator.pdb
+D:\college\Third year\6th term\Software Engineering\LAB\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\college\Third year\6th term\Software Engineering\LAB\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.Form1.resources
+D:\college\Third year\6th term\Software Engineering\LAB\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+D:\college\Third year\6th term\Software Engineering\LAB\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
+D:\nawaf\ASS #1\calculator\calculator\bin\Debug\calculator.exe
+D:\nawaf\ASS #1\calculator\calculator\bin\Debug\calculator.pdb
+D:\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.Form1.resources
+D:\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+D:\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.cache
+D:\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.exe
+D:\nawaf\ASS #1\calculator\calculator\obj\x86\Debug\calculator.pdb
